@@ -1,0 +1,8 @@
+Mtz2ThemePark
+
+The application APK bundles the apksig library from the Android Open Source
+Project (com.android.apksig), licensed under the Apache License, Version 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
+
+apksig is taken from the Android SDK build tools at build time. Its source is
+not included in this repository.

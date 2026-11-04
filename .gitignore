@@ -1,0 +1,14 @@
+# 构建产物
+build/
+*.apk
+*.dex
+
+# 签名密钥和密码，绝不能提交
+signing/
+*.jks
+*.keystore
+
+# 主题文件受作者版权保护，不要提交
+*.mtz
+
+.DS_Store
