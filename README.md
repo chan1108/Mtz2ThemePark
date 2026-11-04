@@ -11,6 +11,12 @@
 
 三星日历有意保留原生图标，这样才能显示实时日期。
 
+## 下载
+
+从 [Releases](https://github.com/chan1108/Mtz2ThemePark/releases/latest) 下载最新的 APK。
+
+需要 Android 13 或更高版本，以及已安装 Good Lock 和 Theme Park 的三星手机。这个 APK 不是从应用商店下载的，安装时系统可能提示未知来源或显示 Play Protect 警告。
+
 ## 使用
 
 1. 安装转换应用，打开后选择 `.mtz` 文件，点“开始转换”。
